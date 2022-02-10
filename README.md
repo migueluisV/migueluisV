@@ -1,52 +1,21 @@
-![](https://images.cooltext.com/5508510.png)
 
-<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
-
-
-![](GHLogoTMP.png)
 
 ### Hola colegas 👋
 
+Soy estudiante de universidad, del Instituto Tecnológico de Tijuana para ser exactos, voy en sexto semestre y con muchas ansias de aprender y lograr cosas grandes.
 
-Gusto de visitar el perfil del docente 👨‍🏫 ✨ René Solis ✨.
+Algunos temas de programación que comprendo son:
+- C#
+- HTML y CSS.
+- Uso de base de datos.
+- Esperemos que pronto Python aparezca en esta lista también.
 
-Atendiendo estudiantes de PFLC y TecTijuana:
-
-- 🔭 En bachillerato con informática 1 y 2 básica 
-- 🖥 ... y capacitación al trabajo con ITICS
-- 📲 Diversas materias el TecNM para ISC, LI y ITICS
-- 🤔 Considero GitHub la herramienta excelente para el nuevo ingeniero.
-- 💬 Asimismo los docentes del ambas escuelas son invitados para usarlo 
-- 📫 Todo inicia con activarlo via GitHub Starter pack son unos 70 dlls de beca por comprobar con correo institucional 
-- 😄 Y con Github Classroom apoyar al estudiante para ser efectivo en lo requerido para producir resultados al momento y diversificar en los sistemas desktop, cloud computing y embedded 
-- ⚡ Sabias: Soy exalumno de la PFLC y del TEC !
-
-Licenciamiento para los cursos:
-- Apple University Programm beca de 200 dispositivo iOS
-- Amazon Web Services AWSEducate beca de $50 dlls estudiantes y $200 dlls a 👩‍🏫 docentes 
-- Jetbrains Suite completo de beca $450 dlls
-
-
-Inventario maker para cursos
-- Arduino clasico
-- STM32
-- RaspberryPi 
-- kit de sensores y herramientas soldar
-
-
-
-Ejemplo Tablas en MD
-
-| Sensores 	|  X 	|  Y  	|
-|----------	|:--:	|:---:	|
-| Co2      	| 20 	|  30 	|
-| temp     	| 11 	|  27 	|
-| O2       	| 22 	| 333 	|
-
-Guias:
-https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
-
-PARA CREAR TABLAS
-Cooltext.com
-
-https://www.tablesgenerator.com/markdown_tables. 
+Mi horario de la escuela:
+| **Hora** |            **Lunes**            |            **Martes**           |          **Miércoles**          |            **Jueves**           |           **Viernes**           |
+|:--------:|:-------------------------------:|:-------------------------------:|:-------------------------------:|:-------------------------------:|:-------------------------------:|
+|   1-2pm  | Administración de base de datos | Administración de base de datos | Administración de base de datos | Administración de base de datos | Administración de base de datos |
+|   2-3pm  |      Ingeniería de software     |      Ingeniería de software     |      Ingeniería de software     |      Ingeniería de software     |      Ingeniería de software     |
+|   3-4pm  |     Lenguajes y autómatas I     |     Lenguajes y autómatas I     |     Lenguajes y autómatas I     |     Lenguajes y autómatas I     |     Lenguajes y autómatas I     |
+|   4-5pm  |      Lenguajes de interfaz      |      Lenguajes de interfaz      |      Lenguajes de interfaz      |      Lenguajes de interfaz      |                                 |
+|   5-6pm  |  Taller de sistemas operativos  |  Taller de sistemas operativos  |  Taller de sistemas operativos  |  Taller de sistemas operativos  |                                 |
+|   6-7pm  |      Redes de computadoras      |      Redes de computadoras      |      Redes de computadoras      |      Redes de computadoras      |      Redes de computadoras      |
