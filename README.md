@@ -9,6 +9,7 @@ Soy estudiante de universidad, del Instituto Tecnológico de Tijuana para ser ex
 Algunos temas de programación que comprendo son:
 - C#
 - HTML y CSS.
+- SQL.
 - Uso de base de datos.
 - Esperemos que pronto Python aparezca en esta lista también.
 
