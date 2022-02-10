@@ -1,5 +1,6 @@
-![logo tecnm](https://user-images.githubusercontent.com/99372513/153338038-70dff192-7af0-4cec-87e2-41988a0fe2a5.png)
-![logo tec tj](https://user-images.githubusercontent.com/99372513/153338058-d03fbf42-d707-4990-b0cd-a714b7525cb6.png)
+<img src="https://user-images.githubusercontent.com/99372513/153338038-70dff192-7af0-4cec-87e2-41988a0fe2a5.png" width="450" /><img src="https://user-images.githubusercontent.com/99372513/153338058-d03fbf42-d707-4990-b0cd-a714b7525cb6.png" width="200" />
+
+
 
 ### Hola colegas 👋
 
