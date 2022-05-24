@@ -6,9 +6,10 @@
 
 Soy estudiante de universidad, del Instituto Tecnológico de Tijuana para ser exactos, voy en sexto semestre y con muchas ansias de aprender y lograr cosas grandes.
 
-Algunos temas de programación que comprendo son:
+Algunos temas de programación que he estudiado son:
 - C#.
 - C++.
+- JAVA
 - HTML y CSS.
 - SQL.
 - Uso de base de datos.
