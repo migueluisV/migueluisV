@@ -1,6 +1,10 @@
 # 💫 ¡Hola colegas!
 
-Soy amante de escuchar música en el trayecto a mis destinos, los videojuegos, leer un poco, el café y salir a caminar, me gusta mucho mejorar las cosas que ya hice, echarle ganas a lo que estoy haciendo y aprender mucho sobre lo que me interesa.<br><br>¡Actualmente estudiando Python por medio de un curso en Sololearn!<br><br>Soy estudiante de universidad, del Instituto Tecnológico de Tijuana para ser exactos, voy en séptimo semestre y con muchas ansias de aprender y lograr cosas grandes. Mi horario actual es:
+Soy amante de escuchar música en el trayecto a mis destinos, los videojuegos, leer un poco, el café y salir a caminar, me gusta mucho mejorar las cosas que ya hice, echarle ganas a lo que estoy haciendo y aprender mucho sobre lo que me interesa.
+
+¡Actualmente estudiando Python por medio de un curso en Sololearn!
+
+Soy estudiante de universidad, de la carrera de Ingeniería en Sistemas Computacionales, del Instituto Tecnológico de Tijuana para ser exactos, voy en séptimo semestre y con muchas ansias de aprender y lograr cosas grandes. Mi horario actual es:
 
 | Hora | Lunes | Martes | Miércoles | Jueves | Viernes |
 |--|--|--|--|--|--|
