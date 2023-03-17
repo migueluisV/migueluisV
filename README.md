@@ -1,4 +1,4 @@
-# 💫 ¡Hola colegas!
+## 💫 ¡Hola colegas!
 
 Soy amante de escuchar música en el trayecto a mis destinos, los videojuegos, leer un poco, el café y salir a caminar, me gusta mucho mejorar las cosas que ya hice, echarle ganas a lo que estoy haciendo y aprender mucho sobre lo que me interesa.
 
@@ -8,12 +8,12 @@ Soy estudiante de universidad, de la carrera de Ingeniería en Sistemas Computac
 
 | Hora | Lunes | Martes | Miércoles | Jueves | Viernes |
 |--|--|--|--|--|--|
-| 13:00 | Taller de investigación I | Taller de investigación I | Taller de investigación I | Taller de investigación I |
-| 14:00 | Gestión de proyectos de software | Gestión de proyectos de software | Gestión de proyectos de software | Gestión de proyectos de software | Gestión de proyectos de software |
-| 15:00 | Programación lógica y funcional | Programación lógica y funcional | Programación lógica y funcional | Programación lógica y funcional | Gestión de proyectos de software |
-| 16:00 | Lenguajes y Autómatas II | Lenguajes y Autómatas II | Lenguajes y Autómatas II | Lenguajes y Autómatas II | Lenguajes y Autómatas II |
-| 17:00 | Conmutación y enrutamiento de redes de datos | Conmutación y enrutamiento de redes de datos | Conmutación y enrutamiento de redes de datos | Conmutación y enrutamiento de redes de datos | Conmutación y enrutamiento de redes de datos |
-| 18:00 | Sistemas programables | Sistemas programables | Sistemas programables | Sistemas programables |
+| 14:00 | Programación web | Programación web | Programación web | Programación web | Programación web |
+| 15:00 | Inteligencia Artificial | Inteligencia Artificial | Inteligencia Artificial | Inteligencia Artificial |
+| 16:00 | Taller de investigación II | Taller de investigación II | Taller de investigación II | Taller de investigación II |
+| 17:00 | Diseño y Evaluación de Interfaces de Usuario | Diseño y Evaluación de Interfaces de Usuario | Diseño y Evaluación de Interfaces de Usuario | Diseño y Evaluación de Interfaces de Usuario | Diseño y Evaluación de Interfaces de Usuario |
+| 18:00 | Temas Avanzados de Desarrollo de Software | Temas Avanzados de Desarrollo de Software | Temas Avanzados de Desarrollo de Software | Temas Avanzados de Desarrollo de Software | Temas Avanzados de Desarrollo de Software |
+| 19:00 | Administración de Redes | Administración de Redes | Administración de Redes | Administración de Redes |
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/luis-enrique-miguel-villegas-8aa35a233) 
