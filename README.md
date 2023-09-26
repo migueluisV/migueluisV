@@ -6,12 +6,9 @@ Soy estudiante de universidad, de la carrera de Ingeniería en Sistemas Computac
 
 | Hora | Lunes | Martes | Miércoles | Jueves | Viernes |
 |--|--|--|--|--|--|
-| 14:00 | Programación web | Programación web | Programación web | Programación web | Programación web |
-| 15:00 | Inteligencia Artificial | Inteligencia Artificial | Inteligencia Artificial | Inteligencia Artificial |
-| 16:00 | Taller de investigación II | Taller de investigación II | Taller de investigación II | Taller de investigación II |
-| 17:00 | Diseño y Evaluación de Interfaces de Usuario | Diseño y Evaluación de Interfaces de Usuario | Diseño y Evaluación de Interfaces de Usuario | Diseño y Evaluación de Interfaces de Usuario | Diseño y Evaluación de Interfaces de Usuario |
-| 18:00 | Temas Avanzados de Desarrollo de Software | Temas Avanzados de Desarrollo de Software | Temas Avanzados de Desarrollo de Software | Temas Avanzados de Desarrollo de Software | Temas Avanzados de Desarrollo de Software |
-| 19:00 | Administración de Redes | Administración de Redes | Administración de Redes | Administración de Redes |
+| 15:00 | Innovación en la tecnología | Innovación en la tecnología | Innovación en la tecnología | Innovación en la tecnología | Innovación en la tecnología |
+| 16:00 | Patrones de diseño de software | Patrones de diseño de software | Patrones de diseño de software | Patrones de diseño de software | Patrones de diseño de software |
+| 17:00 | Análisis avanzado de desarrollo de software | DAnálisis avanzado de desarrollo de software | Análisis avanzado de desarrollo de software | Análisis avanzado de desarrollo de software | Análisis avanzado de desarrollo de software |
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/luis-enrique-miguel-villegas-8aa35a233) 
