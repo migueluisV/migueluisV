@@ -1,14 +1,6 @@
 ## 💫 ¡Hola colegas!
 
-Soy amante de escuchar música en el trayecto a mis destinos, los videojuegos, leer un poco, el café y salir a caminar, me gusta mucho mejorar las cosas que ya hice, echarle ganas a lo que estoy haciendo y aprender mucho sobre lo que me interesa.
-
-Soy estudiante de universidad, de la carrera de Ingeniería en Sistemas Computacionales, del Instituto Tecnológico de Tijuana para ser exactos, voy en octavo semestre y con muchas ansias de aprender y lograr cosas grandes. Mi horario actual es:
-
-| Hora | Lunes | Martes | Miércoles | Jueves | Viernes |
-|--|--|--|--|--|--|
-| 15:00 | Innovación en la tecnología | Innovación en la tecnología | Innovación en la tecnología | Innovación en la tecnología | Innovación en la tecnología |
-| 16:00 | Patrones de diseño de software | Patrones de diseño de software | Patrones de diseño de software | Patrones de diseño de software | Patrones de diseño de software |
-| 17:00 | Análisis avanzado de desarrollo de software | DAnálisis avanzado de desarrollo de software | Análisis avanzado de desarrollo de software | Análisis avanzado de desarrollo de software | Análisis avanzado de desarrollo de software |
+Ya de salida de la universidad.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/luis-enrique-miguel-villegas-8aa35a233) 
